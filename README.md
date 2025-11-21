@@ -1,16 +1,88 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaicolFreire001/MaicolFreire001/main/banner.png" />
+</p>
 
-<!--
-**MaicolFreire001/MaicolFreire001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm <strong>Maicol Freire</strong></h1>
+<h3 align="center">Junior Full-Stack Web Developer | Junior Automation & Tools Developer | Game Dev Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  📍 Ciudad de la Costa, Uruguay — <strong>Open to Remote Roles</strong>  
+  <br />
+  💼 Focused on building full-stack applications, automation tools, and interactive experiences.
+  <br />
+  📧 maicolfreire001@gmail.com
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Languages:**  
+JavaScript (ES6+), Java (17), TypeScript (basic), GDScript, C#
+
+**Frontend:**  
+React, Vite, Redux, Tailwind CSS, SWR
+
+**Backend:**  
+Node.js, Express, REST APIs, MongoDB, JWT, PDFKit
+
+**Dev Tools:**  
+Git, GitHub, Linux, Vercel, Railway
+
+**Game Development:**  
+Godot (2D modular systems), Unity (C#)
+
+---
+
+## 🔥 Featured Projects
+
+### 📄 **Certificate Management Web Application**  
+🔗 **Repo:** (coming soon)  
+**Stack:** React, Tailwind, Node.js, Express, MongoDB, PDFKit  
+
+A production-ready system to generate, sign, and export fumigation certificates with branding, QR codes, and anti-editing protections.
+
+**Highlights**  
+- Dynamic PDF generation with QR + watermark  
+- Secure login with JWT  
+- Mobile-first UI  
+- Deployed with Vercel + Railway  
+- Real clients using the system in production
+
+---
+
+### 🎵 **Advanced Discord Music Bot**  
+🔗 **Repo:** (coming soon)  
+**Stack:** Node.js, Discord.js v14, discord-player, youtubei.js  
+
+Feature-rich music bot with playlist support, dynamic embeds, and intelligent queue handling.
+
+**Highlights**  
+- YouTube playlist playback  
+- Dynamic embeds with interactive buttons  
+- Live queue updates  
+- Uses YouTube cookies for better playback quality  
+- Modular, scalable event architecture
+
+---
+
+## 🌱 Currently Working On
+- Finishing my 2D Godot game with modular AI & behavior scripts  
+- Building a Tailwind/React portfolio  
+- Improving my full-stack architecture and testing skills  
+- Expanding my automation toolset (Discord tools, web automation, APIs)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** maicolfreire001@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/maicol-freire  
+- 🧑‍💻 **GitHub:** https://github.com/MaicolFreire001  
+
+---
+
+<p align="center">
+  🔥 <strong>Always learning. Always building.</strong>  
+</p>
