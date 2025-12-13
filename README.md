@@ -37,6 +37,7 @@ Godot (2D modular systems), Unity (C#)
 ## 🔥 Featured Projects
 ### 🌐 **Discord Translator Bot**
 🔗 **Repo:** [https://github.com/MaicolFreire001/TranslationBot]
+
 **Stack:** Python, discord.py, SQLite, Deep Translator
 
 A robust, multi-feature Discord bot focused on providing seamless and persistent translation services for community servers.
