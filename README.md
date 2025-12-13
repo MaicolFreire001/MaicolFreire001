@@ -1,4 +1,3 @@
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/7312229c-07eb-4158-aae5-d1a100642f07" /><!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/MaicolFreire001/MaicolFreire001/main/banner.png" />
 </p>
