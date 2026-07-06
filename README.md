@@ -9,6 +9,12 @@
   📧 maicolfreire001@gmail.com
 </p>
 
+<div align="center">
+  <a href="https://porfolio-web-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/Ver_Mi_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Portafolio" />
+  </a>
+</div>
+
 ---
 
 ## 🚀 Stack Tecnológico
@@ -50,12 +56,7 @@ Un panel administrativo corporativo centrado en la arquitectura Frontend, UI/UX 
 
 **Stack:** Next.js, React, Tailwind CSS
 
-Una tienda en línea escalable enfocada en la venta de productos de computación y hardware.
-
-**Puntos Destacados:**
-- Arquitectura orientada a la conversión y velocidad de carga.
-- Estructura semántica del catálogo y optimización del proceso de compra.
-- Desarrollo enfocado en la mejora y el cumplimiento de las métricas Core Web Vitals.
+Catálogo de tienda online enfocado en componentes de PC. Diseño limpio, rápido y completamente adaptable a dispositivos móviles, destacando una maquetación avanzada y modular.
 
 ### 📄 **Gestor de Certificados Web (En Producción)**  
 🔗 **Repo:** (Próximamente)  
@@ -71,10 +72,17 @@ Un sistema listo para producción diseñado para generar, firmar y exportar cert
 - Desplegado con Vercel y Railway.  
 - **Uso Real:** Sistema actualmente utilizado por clientes reales en producción.
 
+### 🤖 **Bot Traductor de Discord**
+🔗 **Repo:** [https://github.com/MaicolFreire001/TranslationBot]
+
+**Stack:** Python, discord.py, SQLite, Deep Translator
+
+Herramienta de automatización modular con persistencia de datos. Permite traducción contextual en tiempo real consumiendo la API de Deep Translator mediante interacciones de usuario y comandos de aplicación.
+
 ---
 
 ## 🌱 Actualmente Trabajando En
-- Finalizando mi juego 2D en Godot y scripts de comportamiento modulares.  
+- Finalizando mi juego 2D en Godot con IA y scripts de comportamiento modulares.  
 - Mejorando mis habilidades de arquitectura full-stack web y testing.  
 - Expandiendo mi conjunto de herramientas de automatización (herramientas para Discord, web automation, APIs).
 
