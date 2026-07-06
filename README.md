@@ -74,7 +74,7 @@ Un sistema listo para producción diseñado para generar, firmar y exportar cert
 ---
 
 ## 🌱 Actualmente Trabajando En
-- Finalizando mi juego 2D en Godot con IA y scripts de comportamiento modulares.  
+- Finalizando mi juego 2D en Godot y scripts de comportamiento modulares.  
 - Mejorando mis habilidades de arquitectura full-stack web y testing.  
 - Expandiendo mi conjunto de herramientas de automatización (herramientas para Discord, web automation, APIs).
 
