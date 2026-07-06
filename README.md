@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://porfolio-web-pi.vercel.app/">
-    <img src="https://img.shields.io/badge/Ver_Mi_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Portafolio" />
+    <img src="https://img.shields.io/badge/Ver_Mi_Portafolio-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Portafolio" />
   </a>
 </div>
 
