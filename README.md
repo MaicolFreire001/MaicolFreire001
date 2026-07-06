@@ -46,7 +46,7 @@ Un panel administrativo corporativo centrado en la arquitectura Frontend, UI/UX 
 - **Mock API:** Consumo de datos simulados mediante Route Handlers de Next.js para un renderizado instantáneo.
 
 ### 🛒 **Plataforma E-commerce (Hardware IT)**
-🔗 **Demo en Vivo:** [Tu Link de Vercel](https://e-commerce-hardware-five.vercel.app/) | 💻 **Repo:** [Tu Link del Repo](https://github.com/MaicolFreire001/E-Commerce-Hardware)
+🔗 **Demo en Vivo:** [Link del demo](https://e-commerce-hardware-five.vercel.app/) | 💻 **Repo:** [Link del Repo](https://github.com/MaicolFreire001/E-Commerce-Hardware)
 
 **Stack:** Next.js, React, Tailwind CSS
 
