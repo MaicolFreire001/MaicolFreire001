@@ -1,93 +1,86 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MaicolFreire001/MaicolFreire001/main/banner.png" />
-</p>
-
-<h1 align="center">👋 Hi, I'm <strong>Maicol Freire</strong></h1>
-<h3 align="center">Junior Full-Stack Web Developer | Junior Automation & Tools Developer | Game Dev Enthusiast</h3>
+<h1 align="center">👋 Hola, soy <strong>Maicol Freire</strong></h1>
+<h3 align="center">Desarrollador Web Full-Stack | Desarrollador de Herramientas y Automatización | Entusiasta del Game Dev</h3>
 
 <p align="center">
-  📍 Ciudad de la Costa, Uruguay — <strong>Open to Remote Roles</strong>  
+  📍 Ciudad de la Costa, Uruguay — <strong>Disponible para Trabajo Remoto</strong>  
   <br />
-  💼 Focused on building full-stack applications, automation tools, and interactive experiences.
+  💼 Enfocado en construir aplicaciones full-stack, herramientas de automatización y experiencias interactivas.
   <br />
   📧 maicolfreire001@gmail.com
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Stack Tecnológico
 
-**Languages:**  
-Python, JavaScript (ES6+), Java (17), TypeScript (basic), GDScript, C#
+**Lenguajes:**  
+JavaScript (ES6+), TypeScript, Python, Java (17), GDScript, C#
 
 **Frontend:**  
-React, Vite, Redux, Tailwind CSS, SWR
+React, Next.js (App Router), Tailwind CSS (v4), shadcn/ui, Vite, Redux, SWR
 
-**Backend:**  
-Node.js, Express, REST APIs, MongoDB, JWT, PDFKit, SQLite
+**Backend & Bases de Datos:**  
+Node.js, Express, REST APIs, MongoDB, SQLite, JWT, PDFKit
 
-**Dev Tools:**  
+**Herramientas & Despliegue:**  
 Git, GitHub, Linux, Vercel, Railway
 
-**Game Development:**  
-Godot (2D modular systems), Unity (C#)
+**Desarrollo de Videojuegos:**  
+Godot (sistemas modulares 2D), Unity (C#)
 
 ---
 
-## 🔥 Featured Projects
-### 🌐 **Discord Translator Bot**
-🔗 **Repo:** [https://github.com/MaicolFreire001/TranslationBot]
+## 🔥 Proyectos Destacados
 
-**Stack:** Python, discord.py, SQLite, Deep Translator
+### 📊 **B2B Analytics Dashboard**
+🔗 **Demo en Vivo:** [Link del demo](https://b2b-analytics-dashboard-eight.vercel.app/) | 💻 **Repo:** [Link del Repo](https://github.com/MaicolFreire001/b2b-analytics-dashboard)
 
-A robust, multi-feature Discord bot focused on providing seamless and persistent translation services for community servers.
+**Stack:** Next.js, TypeScript, Tailwind CSS v4, shadcn/ui, Recharts, TanStack Table
 
-**Highlights**
-- **Data Persistence:** Uses **SQLite** to save per-server configurations (language, auto-translate status) across restarts and deployments.
-- **Contextual Translation:** Users can trigger translation via right-click context menu (application commands).
-- **Reaction-Based Translation:** Translate messages instantly by reacting with a country flag emoji.
-- **Modular Architecture:** Built using Cogs for high scalability and easy maintenance.
-- **Deployed on Railway:** Configured for 24/7 availability with persistent volume support.
+Un panel administrativo corporativo centrado en la arquitectura Frontend, UI/UX y un rendimiento perfecto (Lighthouse 100/100). Diseñado para demostrar el manejo de estados complejos e interfaces modernas.
 
-### 📄 **Certificate Management Web Application**  
-🔗 **Repo:** (coming soon)  
-**Stack:** React, Tailwind, Node.js, Express, MongoDB, PDFKit  
+**Puntos Destacados:**
+- **Tablas Avanzadas:** Implementación de tablas dinámicas con filtros multicondicionales y ordenamiento.
+- **Rendimiento:** Gráficos interactivos con carga diferida (Lazy Loading) para optimizar el *Total Blocking Time* (TBT).
+- **UX Premium:** Accesibilidad total (A11y), soporte de modo oscuro nativo, y manejo avanzado de "Skeleton Loaders" y estados vacíos.
+- **Mock API:** Consumo de datos simulados mediante Route Handlers de Next.js para un renderizado instantáneo.
 
-A production-ready system to generate, sign, and export fumigation certificates with branding, QR codes, and anti-editing protections.
+### 🛒 **Plataforma E-commerce (Hardware IT)**
+🔗 **Demo en Vivo:** [Tu Link de Vercel](https://e-commerce-hardware-five.vercel.app/) | 💻 **Repo:** [Tu Link del Repo](https://github.com/MaicolFreire001/E-Commerce-Hardware)
 
-**Highlights**  
-- Dynamic PDF generation with QR + watermark  
-- Secure login with JWT  
-- Mobile-first UI  
-- Deployed with Vercel + Railway  
-- Real clients using the system in production
+**Stack:** Next.js, React, Tailwind CSS
 
----
+Una tienda en línea escalable enfocada en la venta de productos de computación y hardware.
 
-### 🎵 **Advanced Discord Music Bot**  
-🔗 **Repo:** (coming soon)  
-**Stack:** Node.js, Discord.js v14, discord-player, youtubei.js  
+**Puntos Destacados:**
+- Arquitectura orientada a la conversión y velocidad de carga.
+- Estructura semántica del catálogo y optimización del proceso de compra.
+- Desarrollo enfocado en la mejora y el cumplimiento de las métricas Core Web Vitals.
 
-Feature-rich music bot with playlist support, dynamic embeds, and intelligent queue handling.
+### 📄 **Gestor de Certificados Web (En Producción)**  
+🔗 **Repo:** (Próximamente)  
 
-**Highlights**  
-- YouTube playlist playback  
-- Dynamic embeds with interactive buttons  
-- Live queue updates  
-- Uses YouTube cookies for better playback quality  
-- Modular, scalable event architecture
+**Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, PDFKit  
+
+Un sistema listo para producción diseñado para generar, firmar y exportar certificados de fumigación con branding, códigos QR y protecciones anti-edición.
+
+**Puntos Destacados:**  
+- Generación dinámica de PDFs con códigos QR y marca de agua.  
+- Sistema de autenticación seguro basado en JWT.  
+- Interfaz de usuario (UI) responsiva y Mobile-first.  
+- Desplegado con Vercel y Railway.  
+- **Uso Real:** Sistema actualmente utilizado por clientes reales en producción.
 
 ---
 
-## 🌱 Currently Working On
-- Finishing my 2D Godot game with modular AI & behavior scripts  
-- Building a Tailwind/React portfolio  
-- Improving my full-stack architecture and testing skills  
-- Expanding my automation toolset (Discord tools, web automation, APIs)
+## 🌱 Actualmente Trabajando En
+- Finalizando mi juego 2D en Godot con IA y scripts de comportamiento modulares.  
+- Mejorando mis habilidades de arquitectura full-stack web y testing.  
+- Expandiendo mi conjunto de herramientas de automatización (herramientas para Discord, web automation, APIs).
 
 ---
 
-## 📫 Connect With Me
+## 📫 Conecta Conmigo
 
 - 📧 **Email:** maicolfreire001@gmail.com  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/maicol-freire  
@@ -96,5 +89,5 @@ Feature-rich music bot with playlist support, dynamic embeds, and intelligent qu
 ---
 
 <p align="center">
-  🔥 <strong>Always learning. Always building.</strong>  
+  🔥 <strong>Siempre aprendiendo. Siempre construyendo.</strong>  
 </p>
